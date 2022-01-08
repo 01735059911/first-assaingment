@@ -1,0 +1,138 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+}
+.container-flex{
+    display: flex;
+}
+.container{
+  
+    width: 80%;
+    margin: 0 auto;
+}
+.left-size{
+    width: 50%;
+}
+.left-size h1{
+    border-left: 4px solid rgb(211, 71, 6) ;
+    padding :10px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(211, 71, 6);
+    font-size: large;
+    font-weight: 900;
+    color: white;
+    padding: 10px 20px;
+        border-radius: 5px;
+    }
+.right-side img{
+    width: 280px;
+}
+   
+    h2{
+        text-align: center;
+        font-size: x-large;
+        font-family: 'Roboto', sans-serif;
+        color: rgba(21, 3, 63, 0.897);
+    }
+    .side{
+        display: flex;
+        padding: 10px;
+        
+       
+    }
+.side img{
+    height: 60%;
+    width: 40%;
+}
+.div-1{
+    height: 60%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 5%;
+    padding: 1%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px rosybrown;
+}
+.div-2{
+    height: 60%;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px rosybrown;
+}
+.div-3{
+height: 70%;
+    width: 80%;
+    margin-left:5%;
+    margin-right: 10%;
+    padding: 1%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px rosybrown;
+}
+h4{
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    font-size: 50px;
+
+}
+.team{
+    color: rgba(245, 172, 13, 0.938);
+}
+.coding-image{
+    width: 50%;
+}
+.coding-image img{
+ height: 280px;
+ width: 280px;
+}
+.develop-area{
+    width: 50%;
+}
+.global-area{
+    width: 50%;
+}
+.global-image{
+    width: 50%;
+}
+.global-image img{
+    height: 300px;
+    width: 300px;
+   }
+.app-image{
+    width: 50%;
+}
+.app-image img{
+    height: 300px;
+    width: 300px;
+   }
+.app-describe{
+    width: 50%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 5cm;
+    color: white;
+    width: 100%;
+}
+footer h2{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    padding: 20px;
+    margin-bottom: -20px;
+    
+}
+footer p{
+    font-size: 12px;
+}
+
+
